@@ -1,0 +1,6 @@
+[submodule "qmk_firmware"]
+	path = qmk_firmware
+	url = https://github.com/qmk/qmk_firmware
+[submodule "bootloadHID"]
+	path = bootloadHID
+	url = https://github.com/robertgzr/bootloadHID
